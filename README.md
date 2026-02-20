@@ -1,12 +1,10 @@
 ## Hello evreyone! I'm Operator👋 
-**Developer on: C/C++💻** \
-**More of a mobile developer for Android, but only in C/C++ NDK** 
+**Developer on: C/C++💻** 
 
 **And I'm a [YouTube'r](https://www.youtube.com/@Operator_about)📡**
 
 ## Всем привет! Я Operator👋 
-**Разработчик на: C/C++💻** \
-**Примущественно разрабатываю на Android, но только на C/C++ NDK** 
+**Разработчик на: C/C++💻**
 
 **И я [Ютубер](https://www.youtube.com/@Operator_about)📡**
 <!--
