@@ -1,10 +1,12 @@
 ## Hello evreyone! I'm Operator👋 
-**Developer on: C/C++💻** 
+**Developer on: C/C++💻 \
+Make own OS for ARMv8 AArch64** 
 
 **And I'm a [YouTube'r](https://www.youtube.com/@Operator_about)📡**
 
 ## Всем привет! Я Operator👋 
-**Разработчик на: C/C++💻**
+**Разработчик на: C/C++💻 \
+Делаю свою ОС под ARMv8 AArch64**
 
 **И я [Ютубер](https://www.youtube.com/@Operator_about)📡**
 <!--
@@ -12,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
